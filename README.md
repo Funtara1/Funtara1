@@ -19,7 +19,7 @@ I’m highly motivated to grow into a developer role and contribute to real-worl
 
 <p float="left">
 	<a href="mailto:fuad.shukurzadeh@gmail.com">
-		<img src="https://github.com/Funtara1/Funtara1/blob/main/social_networks/email.png?raw=true" width="48" hspace="10"/>
+		<img src="https://github.com/Funtara1/Funtara1/blob/main/social_networks/email.png?raw=true" width="48" hspace="12"/>
 	</a>
 </p>
 
